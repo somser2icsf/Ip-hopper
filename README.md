@@ -5,7 +5,8 @@ It works by launching multiple Tor nodes in parallel and routing traffic through
 
 Whether you're conducting anonymous security research or learning how anonymization networks like Tor work, IPHopper provides a lightweight and powerful CLI-based solution — especially built for Termux and Linux-based systems.
 
-🎯 Purpose of IPHopper
+--
+##🎯 Purpose of IPHopper
 
 When working in the cybersecurity field or doing web reconnaissance, constantly changing your IP address can help avoid detection, rate-limiting, and geo-restrictions.
 Most users rely on VPNs, but VPNs are centralized services and not always transparent. Tor, on the other hand, offers a decentralized and free solution for anonymity.
