@@ -51,4 +51,4 @@ pkg update -y && pkg upgrade -y
 pkg install python tor curl git -y
 git clone https://github.com/somser2icsf/Ip-hopper
 cd Ip-hopper
-python go.py
+python run.py
